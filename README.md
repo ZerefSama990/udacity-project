@@ -16,4 +16,4 @@ File used:
 	chicago.csv
 
 ### Credits
-
+Thanks Udacity for helping me complete this project!
